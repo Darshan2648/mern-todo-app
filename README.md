@@ -30,5 +30,5 @@ MONGO_URI=your_mongodb_uri
 JWT_SECRET=your_secret
 
 ## 🌐 Deployment
-Frontend: (your vercel link)
-Backend: (your render link)
+Frontend: https://mern-todo-app-blush-nu.vercel.app 
+Backend: https://mern-todo-app-pj30.onrender.com
